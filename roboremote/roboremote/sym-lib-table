@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "JOYSTICK_THUMB")(type "KiCad")(uri "${YT}/ProgrammingShit/highway/sillybot/roboremote/roboremote/libraries/JOYSTICK_THUMB.kicad_sym")(options "")(descr ""))
+)
