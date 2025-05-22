@@ -1,0 +1,18 @@
+hi i forgot to journal my pcb schematic the other day soooo
+
+5/21/25
+my idea for the controller:
+wifi or bluetooth MCU, at least 4 buttons
+2 joysticks for robot "tank drive"
+
+final choice: the specific esp32 footprints i need are weird
+i'm designing my own esp32 integration i guess
+
+5/22/25
+nevermind! the wemos c3 mini is perfect for this, and much easier to wire
+
+wemos c3 mini notes:
+i'm 1 pin short for my original plan of using 5 buttons :(
+oh well, back to 4 it is
+
+pcb design finished! (components.png)
